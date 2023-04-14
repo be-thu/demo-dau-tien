@@ -15,9 +15,10 @@ h2{
     font-size: 50pxpx;
     background-color: darkgray;
 }
-.one{
+.one:nth-child(){
     color: coral;
     filter: brightness(0.5);
     font-size: 40px;
     background-color: lemonchiffon;
+
 }
